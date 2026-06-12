@@ -36,7 +36,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,css,html,js,nodejs,mysql,sqlite,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=arduino,bootstrap,c,cs,cpp,css,dotnet,git,github,html,js,matlab,mysql,nodejs,powershell,py,react,sqlite,tailwind,ts,visualstudio,vite,vscode" />
   </a>
 </p>
 <br>
